@@ -8,6 +8,8 @@ pelican.dev
 virtualizor.com
 *.proxmox.com
 proxmox.com
+youtube.com
+youtu.be
 *.cpanel.net
 cpanel.net
 *.discord.com
