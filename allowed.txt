@@ -139,3 +139,6 @@ google.com
 yandex.ru
 *.wikipedia.org
 wikipedia.org
+tenor.com
+*.imgur.com
+imgur.com
