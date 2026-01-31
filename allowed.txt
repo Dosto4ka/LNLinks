@@ -142,3 +142,4 @@ wikipedia.org
 tenor.com
 *.imgur.com
 imgur.com
+x.com
