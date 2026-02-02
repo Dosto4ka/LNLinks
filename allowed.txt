@@ -145,3 +145,4 @@ tenor.com
 *.imgur.com
 imgur.com
 x.com
+193.23.220.*
