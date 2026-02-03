@@ -146,3 +146,5 @@ tenor.com
 imgur.com
 x.com
 193.23.220.*
+127.0.0.1
+localhost
