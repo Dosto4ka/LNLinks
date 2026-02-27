@@ -163,3 +163,6 @@ localhost
 87.251.16.0-87.251.16.255
 klipy.com
 sshid.io
+perplexity.ai
+*.google.com
+chatgpt.com
