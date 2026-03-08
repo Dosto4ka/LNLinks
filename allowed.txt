@@ -166,3 +166,5 @@ sshid.io
 perplexity.ai
 *.google.com
 chatgpt.com
+pixiv.net
+www.pixiv.net
