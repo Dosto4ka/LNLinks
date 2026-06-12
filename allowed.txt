@@ -168,3 +168,5 @@ perplexity.ai
 chatgpt.com
 pixiv.net
 www.pixiv.net
+giphy.com
+*.giphy.com
