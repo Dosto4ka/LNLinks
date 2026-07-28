@@ -170,4 +170,5 @@ pixiv.net
 www.pixiv.net
 giphy.com
 *.giphy.com
+tiktok.com
 *.tiktok.com
